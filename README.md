@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Leo's GitHub Stats" src="https://github-readme-stats.leo5661.vercel.app/api?username=Leo5661&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="Leo's GitHub Stats" src="https://github-readme-stats-leo5661.vercel.app/api?username=Leo5661&count_private=true&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 <!-- Links -->
