@@ -9,22 +9,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning how to code 😄
+- 🔭 I’m currently working as Full Stack
+- 🌱 I’m currently learning systems design 😄
 - 👯 I’m looking to collaborate with other coders 
 - ⚡ Fun fact: I love to play Pc game.
-<!--- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
+- 💬 Ask me about how to code.
+- 📫 How to reach me: [leocoder.app](https://my-portfolio-leo5661.vercel.app/)
+- 😄 Pronouns: He/Him
 
 #### Connect with me:
 
 [<img align="left" alt="Leo | Linkedin" width="22px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [<img align="left" alt="Leo | Twitter" width="22px" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="Leo | Leetcode" width="22px" src="https://unpkg.com/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-
 [<img align="left" alt="Leo | Instagram" width="22px" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
@@ -60,6 +56,7 @@ Here are some ideas to get you started:
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Leo's GitHub Stats" src="https://github-readme-stats-leo5661.vercel.app/api?username=Leo5661&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+  <img align="center" alt="Leo's Language Stats" src="https://github-readme-stats-leo5661.vercel.app/api/top-langs/?username=Leo5661&layout=compact&theme=dark" /> 
 
 </details>
 <!-- Links -->
