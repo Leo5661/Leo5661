@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other coders 
 - ⚡ Fun fact: I love to play Pc game.
 - 💬 Ask me about how to code.
-- 📫 How to reach me: [leocoder.app](https://devleo.tech/)
+- 📫 How to reach me: [leocoder.xyz](https://leocoder.xyz/)
 - 😄 Pronouns: He/Him
 
 #### Connect with me:
