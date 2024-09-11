@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Leo | Twitter" width="22px" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="Leo | Instagram" width="22px" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
+</br>
+
 #### Languages and Tools:
 
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -32,6 +34,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"/>
 <img align="left" alt="Qiskit" width="26px" src="https://avatars3.githubusercontent.com/u/30696987?s=280&v=4"/>
+
+</br>
 
 ---
 
