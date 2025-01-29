@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 <!-- Links -->
 
 [github]: https://github.com/Leo5661
-[twitter]: https://twitter.com/Leo_5661
-[follow_twitter]: https://twitter.com/intent/follow?screen_name=Leo_5661
+[twitter]: https://twitter.com/_leocoder_
+[follow_twitter]: https://twitter.com/intent/follow?screen_name=_leocoder_
 [linkedin]: https://www.linkedin.com/in/leocoder/
 [leetcode]: https://leetcode.com/leo1_/
 [instagram]: https://www.instagram.com/leo_coder/
